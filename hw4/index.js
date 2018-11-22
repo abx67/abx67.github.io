@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'The whole party were but just reassembled in the drawing-room when Mr. Weston made his appearance among them.',
+      'The whole party were but just reassembled in the drawing-room when Mr . Weston made his appearance among them .',
   'example2':
-      'He was out in the garden on one such luminous and ghostly night, when the steady moonshine toned down all the colours of the garden until almost the strongest tints to be seen were the strong soft blue of the sky and the large lemon moon.',
+      'He was out in the garden on one such luminous and ghostly night , when the steady moonshine toned down all the colours of the garden until almost the strongest tints to be seen were the strong soft blue of the sky and the large lemon moon .',
   'example3':
-      'Nothing so much contributed to preserve a spirit of emulation in this little society as a small honorary distinction, given annually, as a prize of successful application.'      
+      'Nothing so much contributed to preserve a spirit of emulation in this little society as a small honorary distinction , given annually , as a prize of successful application .'      
 };
 
 function status(statusText) {

@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      ' was beginning to get very tired of sitting by her sister on the bank.',
+      'The whole party were but just reassembled in the drawing-room when Mr. Weston made his appearance among them.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'He was out in the garden on one such luminous and ghostly night, when the steady moonshine toned down all the colours of the garden until almost the strongest tints to be seen were the strong soft blue of the sky and the large lemon moon.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Nothing so much contributed to preserve a spirit of emulation in this little society as a small honorary distinction, given annually, as a prize of successful application.'      
 };
 
 function status(statusText) {
